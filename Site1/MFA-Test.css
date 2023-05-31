@@ -8,12 +8,11 @@
 }
 
 .u-section-1 .u-btn-1 {
-  font-weight: 700;
-  text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  background-image: none;
-  margin: 60px auto;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 400px auto;
 }
 
 @media (max-width: 1199px) {
